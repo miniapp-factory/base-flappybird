@@ -1,0 +1,48 @@
+
+# 2025-12-18 06:20:19.347758
++Code the following app
++```
++Flappy Bird game on Base blockchain with HP system & power-ups (HP, Shield, Speed Boost)
++Multi-wallet connect (MetaMask, Bitget, OKX, Coinbase, Trust Wallet) + social login (Google, Twitter, Discord, GitHub)
++Smart account generation via Base Account Factory
++10M GMMC tokens weekly reward pool (contract: 0x3D9B15274E579411555FF1F96fE9E1ABf3Df4b07)
++Top 10 leaderboard players can claim rewards (25% to 4% allocation)
++On-chain score recording as proof-of-work
++App Functions:
++
++Game: Flappy Bird with obstacles, enemies, power-ups, HP tracking
++Blockchain: Wallet connection, smart account creation, on-chain score submission
++Leaderboard: Weekly rankings, auto-refresh every 5min, week cycle (6d 23h 45m + 10min distribution)
++Rewards: Top 10 claim rewards directly to wallet with on-chain tracking
++Profile: Player stats, social linking (Twitter, Discord, Telegram), avatar management
++Contracts: Display reward token, account factory, and pool contracts with BaseScan links
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-12-18 06:20:19.355212
++Code the following app
++```
++Flappy Bird game on Base blockchain with HP system & power-ups (HP, Shield, Speed Boost)
++Multi-wallet connect (MetaMask, Bitget, OKX, Coinbase, Trust Wallet) + social login (Google, Twitter, Discord, GitHub)
++Smart account generation via Base Account Factory
++10M GMMC tokens weekly reward pool (contract: 0x3D9B15274E579411555FF1F96fE9E1ABf3Df4b07)
++Top 10 leaderboard players can claim rewards (25% to 4% allocation)
++On-chain score recording as proof-of-work
++App Functions:
++
++Game: Flappy Bird with obstacles, enemies, power-ups, HP tracking
++Blockchain: Wallet connection, smart account creation, on-chain score submission
++Leaderboard: Weekly rankings, auto-refresh every 5min, week cycle (6d 23h 45m + 10min distribution)
++Rewards: Top 10 claim rewards directly to wallet with on-chain tracking
++Profile: Player stats, social linking (Twitter, Discord, Telegram), avatar management
++Contracts: Display reward token, account factory, and pool contracts with BaseScan links
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-12-18 06:21:19.149253
++apply changes
+
+# 2025-12-18 06:21:19.150096
++apply changes
