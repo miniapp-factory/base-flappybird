@@ -56,3 +56,91 @@
 +add the following metatag in the <head> element on the homepage of your app and verify your ownership.
 +
 +<meta name="base:app_id" content="693fbbf1d19763ca26ddc2f7" />
+
+# 2025-12-18 07:32:50.887773
++Make upgrade my app domain name to~ 'based.flappybird.xyz'
++Primary category of app are: Game(FlappyBird style arcade game with Base Blockchains, Play to earn weekly 10M $GMMC reward pool. User can claim reward token, based on their leaderboard position.).
++In-game interface have 4 tabs: [Home, Game, Leaderboard, Profile].
++~Home: Show Current Details about $GMMC(0x3D9B15274E579411555FF1F96fE9E1ABf3Df4b07), also shown live price of this token.
++~Game: Flappy Bird arcade-style gameplay with smooth animations
++3 HP per game session
++Floating power-ups: HP restoration, Shield (5s invincibility), Speed Boost (3s)
++Obstacles: Pipes and enemy birds that cause damage
++Beautiful canvas-based graphics with particle effects.
++~Leaderboard: Weekly leaderboard with auto-refresh every 5 minutes
++6-day 23-hour 45-minute countdown to snapshot
++10-minute delay before reward distribution
++Reward distribution: 40% 1st, 25% 2nd, 15% 3rd, 20% split among top 10.
++~Profile: Social account linking (Twitter, Discord, Telegram)
++Stats tracking (games played, high score, rewards earned)
++Smart account display with BaseScan links.
++As I provided above details, there was a functions 
++#Blockchain Integration:
++
++Wallet connection with Base Network support
++Auto-generated smart accounts per player from Base Account Factory
++On-chain proof-of-work transaction for each game score
++Token contract integration (0x3D9B15274E579411555FF1F96fE9E1ABf3Df4b07).
++
++Make sure about weekly reward pool and Leaderboard Scores will work within these notes~
++#Leaderboard & Rewards:
++
++Weekly leaderboard with live rankings
++Auto-refresh every 5 minutes
++Snapshot timing: 6 days, 23 hours, 45 minutes
++Reward distribution: 10 minutes after snapshot
++Prize pool: 10,000,000 $GMMC tokens (40% for 1st, 25% for 2nd, 15% for 3rd).
++
++Also Check for game functions, exactly working with these details~
++#Game Features:
++
++Flappy Bird arcade-style gameplay with smooth animations
++3 HP per game session
++Floating power-ups: HP restoration, Shield (5s invincibility), Speed Boost (3s)
++Obstacles: Pipes and enemy birds that cause damage
++Beautiful canvas-based graphics with particle effects.
++
+
+# 2025-12-18 07:32:50.888644
++Make upgrade my app domain name to~ 'based.flappybird.xyz'
++Primary category of app are: Game(FlappyBird style arcade game with Base Blockchains, Play to earn weekly 10M $GMMC reward pool. User can claim reward token, based on their leaderboard position.).
++In-game interface have 4 tabs: [Home, Game, Leaderboard, Profile].
++~Home: Show Current Details about $GMMC(0x3D9B15274E579411555FF1F96fE9E1ABf3Df4b07), also shown live price of this token.
++~Game: Flappy Bird arcade-style gameplay with smooth animations
++3 HP per game session
++Floating power-ups: HP restoration, Shield (5s invincibility), Speed Boost (3s)
++Obstacles: Pipes and enemy birds that cause damage
++Beautiful canvas-based graphics with particle effects.
++~Leaderboard: Weekly leaderboard with auto-refresh every 5 minutes
++6-day 23-hour 45-minute countdown to snapshot
++10-minute delay before reward distribution
++Reward distribution: 40% 1st, 25% 2nd, 15% 3rd, 20% split among top 10.
++~Profile: Social account linking (Twitter, Discord, Telegram)
++Stats tracking (games played, high score, rewards earned)
++Smart account display with BaseScan links.
++As I provided above details, there was a functions 
++#Blockchain Integration:
++
++Wallet connection with Base Network support
++Auto-generated smart accounts per player from Base Account Factory
++On-chain proof-of-work transaction for each game score
++Token contract integration (0x3D9B15274E579411555FF1F96fE9E1ABf3Df4b07).
++
++Make sure about weekly reward pool and Leaderboard Scores will work within these notes~
++#Leaderboard & Rewards:
++
++Weekly leaderboard with live rankings
++Auto-refresh every 5 minutes
++Snapshot timing: 6 days, 23 hours, 45 minutes
++Reward distribution: 10 minutes after snapshot
++Prize pool: 10,000,000 $GMMC tokens (40% for 1st, 25% for 2nd, 15% for 3rd).
++
++Also Check for game functions, exactly working with these details~
++#Game Features:
++
++Flappy Bird arcade-style gameplay with smooth animations
++3 HP per game session
++Floating power-ups: HP restoration, Shield (5s invincibility), Speed Boost (3s)
++Obstacles: Pipes and enemy birds that cause damage
++Beautiful canvas-based graphics with particle effects.
++
