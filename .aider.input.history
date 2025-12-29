@@ -156,3 +156,81 @@
 
 # 2025-12-22 16:49:31.030418
 +apply changes
+
+# 2025-12-29 19:36:15.274419
++Change the app to Based Build on GMMC attestation, social daily check-in. Make the app structure build like this: gmmc-daily-attestation/
++├─ contracts/
++│  └─ DailyCheckInAttestation.sol
++│
++├─ scripts/
++│  ├─ deploy-base.ts
++│  └─ fund-rewards.ts
++│
++├─ frontend/
++│  ├─ app/
++│  │  ├─ api/
++│  │  │  └─ frame/
++│  │  │     ├─ route.ts
++│  │  │     ├─ checkin/route.ts
++│  │  │     └─ confirm/route.ts
++│  │  ├─ page.tsx
++│  │  ├─ profile/page.tsx
++│  │  └─ layout.tsx
++│  │
++│  ├─ components/
++│  │  ├─ CheckInButton.tsx
++│  │  └─ WalletConnect.tsx
++│  │
++│  ├─ public/
++│  │  ├─ frame.png
++│  │  └─ success.png
++│  │
++│  └─ thirdweb.ts
++│
++├─ hardhat.config.ts
++├─ package.json
++├─ .env.example
++├─ README.md
++└─ whitepaper.md
+
+# 2025-12-29 19:36:15.274831
++Change the app to Based Build on GMMC attestation, social daily check-in. Make the app structure build like this: gmmc-daily-attestation/
++├─ contracts/
++│  └─ DailyCheckInAttestation.sol
++│
++├─ scripts/
++│  ├─ deploy-base.ts
++│  └─ fund-rewards.ts
++│
++├─ frontend/
++│  ├─ app/
++│  │  ├─ api/
++│  │  │  └─ frame/
++│  │  │     ├─ route.ts
++│  │  │     ├─ checkin/route.ts
++│  │  │     └─ confirm/route.ts
++│  │  ├─ page.tsx
++│  │  ├─ profile/page.tsx
++│  │  └─ layout.tsx
++│  │
++│  ├─ components/
++│  │  ├─ CheckInButton.tsx
++│  │  └─ WalletConnect.tsx
++│  │
++│  ├─ public/
++│  │  ├─ frame.png
++│  │  └─ success.png
++│  │
++│  └─ thirdweb.ts
++│
++├─ hardhat.config.ts
++├─ package.json
++├─ .env.example
++├─ README.md
++└─ whitepaper.md
+
+# 2025-12-29 19:36:43.537175
++apply changes
+
+# 2025-12-29 19:36:43.537760
++apply changes
